@@ -1,9 +1,6 @@
 # Feedback for Prisma Content
 
-This repository is the central place to collect feedback and issues for the Prisma content channels, most notably:
+⚠️ **This repo is not active any more** ⚠️ 
 
-- [Documentation](https://www.prisma.io/docs/)
-- [Tutorials](https://www.prisma.io/tutorials)
-- [Blog](https://www.prisma.io/blog/)
+Please open an issue in the [`prisma1`](https://github.com/prisma/prisma1) repo if you have any feedback for the Prisma 1 documentation or community tutorials.
 
-Please [**open an issue**](https://github.com/prisma/prisma-content-feedback/issues/new?template=documentation-feedback.md) if you want to leave feedback.
